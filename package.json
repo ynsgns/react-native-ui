@@ -1,0 +1,33 @@
+{
+  "name": "yns-react-native-ui",
+  "version": "1.0.0",
+  "description": "Essential React Native components ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ynsgns/react-native-ui.git"
+  },
+  "keywords": [
+    "react-native",
+    "react-component",
+    "react-native-component",
+    "react",
+    "react native",
+    "mobile",
+    "ios",
+    "android",
+    "ui"
+  ],
+  "author": "Yunus Güneş",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ynsgns/react-native-ui/issues"
+  },
+  "homepage": "https://github.com/ynsgns/react-native-ui#readme",
+  "devDependencies": {
+    "metro-react-native-babel-preset": "^0.59.0"
+  }
+}
