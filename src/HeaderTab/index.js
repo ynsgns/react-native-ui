@@ -61,10 +61,10 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
     alignItems: 'center',
     paddingHorizontal: 10,
-    backgroundColor: 'rgba(128,0,0,1)',
+    backgroundColor: '#0E1277',
   },
   title: {
-    color: 'rgba(128,0,0,1)',
+    color: '#0E1277',
     fontSize: 18,
     textAlign: 'center',
   },
@@ -86,13 +86,13 @@ const styles = StyleSheet.create({
   },
   intup: {
     width: '100%',
-    color: '#C22049',
+    color: '#0E1277',
     fontSize: 20,
     marginTop: 10,
     padding: 0,
     paddingTop: 5,
     borderBottomWidth: 1,
-    borderBottomColor: 'rgba(128,0,0,1)',
+    borderBottomColor: '#0E1277',
   },
 
   shadow: {

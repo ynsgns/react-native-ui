@@ -37,7 +37,7 @@ export default class Input extends Component {
             placeholderTextColor={
               this.props.placeholderTextColor
                 ? this.props.placeholderTextColor
-                : 'rgba(128,0,0,0.4)'
+                : 'rgba(123,33,128,0.4)'
             }
             value={this.props.value}
             onChangeText={this.props.onChangeText}
@@ -84,13 +84,13 @@ const styles = StyleSheet.create({
   },
   InputStyle: {
     width: '100%',
-    color: '#C22049',
+    color: '#0E1277',
     fontSize: 20,
     marginTop: 10,
     padding: 0,
     paddingTop: 5,
     borderBottomWidth: 1,
-    borderBottomColor: 'rgba(128,0,0,1)',
+    borderBottomColor: 'rgba(23,33,238,1)',
   },
   imgContainer: {
     width: '10%',

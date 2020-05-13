@@ -48,7 +48,7 @@ const styles = StyleSheet.create({
     fontSize: 14,
     // fontStyle: "italic",
     color: 'rgba(255,255,255,0.7)',
-    textShadowColor: 'rgba(128, 0, 0, 0.2)',
+    textShadowColor: '#0E1277',
     textShadowOffset: {width: -1, height: 1},
     textShadowRadius: 10,
   },

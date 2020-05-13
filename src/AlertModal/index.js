@@ -99,7 +99,7 @@ const styles = StyleSheet.create({
     justifyContent: 'flex-end',
   },
   btnText: {
-    color: 'rgba(128,0,0,1)',
+    color: '#0E1277',
   },
   btn: {
     marginLeft: 15,

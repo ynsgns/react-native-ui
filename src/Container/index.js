@@ -109,7 +109,7 @@ const styles = StyleSheet.create({
     alignItems: 'center',
   },
   header: {
-    flex: 3,
+    flex: 2.5,
     width: '100%',
   },
   img: {
@@ -125,7 +125,7 @@ const styles = StyleSheet.create({
     fontSize: 35,
     //  fontStyle: "italic",
     color: 'rgba(255,255,255,0.7)',
-    textShadowColor: 'rgba(128, 0, 0, 0.2)',
+    textShadowColor: 'rgba(28,33,172, 0.2)',
     textShadowOffset: {width: -1, height: 1},
     textShadowRadius: 10,
     textAlign: 'center',

@@ -19,7 +19,7 @@ export default function App(props) {
         {
           backgroundColor: props.backgroundColor
             ? props.backgroundColor
-            : '#AC2659',
+            : '#0E1277',
         },
       ]}>
       <TouchableOpacity
@@ -86,7 +86,7 @@ const styles = StyleSheet.create({
     fontSize: 14,
     // fontStyle: "italic",
     color: 'rgba(255,255,255,0.7)',
-    textShadowColor: 'rgba(128, 0, 0, 0.2)',
+    textShadowColor: 'rgba(14,18,119, 0.2)',
     textShadowOffset: {width: -1, height: 1},
     textShadowRadius: 10,
   },
